@@ -1,6 +1,5 @@
 #language: pt
 
-@smoke
 Funcionalidade: Login no Ecommerce Fake
 
     Sendo um usuário perfeitamente cadastrado
