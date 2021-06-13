@@ -1,5 +1,5 @@
 # language: pt
-
+@smoke
 Funcionalidade: Buscas no Fake Ecommerce
   Como um cliente do site Fake Ecommerce
   Gostaria de poder buscar por produtos

@@ -5,8 +5,4 @@ Before do
   @login_page = Pages::LoginPage.new
 end
 
-AfterStep do
-  screenshot = "reports/screenshot#{Time.now.to_i.to_s}.png"
-  page.save_screenshot(screenshot)
-  embed(screenshot, "image/png", "the_screenshot")
-end
+
