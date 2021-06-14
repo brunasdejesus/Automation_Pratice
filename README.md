@@ -62,6 +62,9 @@
        * cucumber -t @smoke para executar o teste da busca
        * cucumber -t @top para executar o teste do login
   
+  * Verificando os resultados:
+    * Na pasta reports poderá ter acesso a todos os screenshots capturados durante as execuções
+  
 
 Responsável pelo Projeto: Bruna Soares de Jesus 
 
